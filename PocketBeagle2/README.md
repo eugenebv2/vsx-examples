@@ -1,3 +1,7 @@
+# Install RUST
+
+sudo apt-get install rustc
+
 # PocketBeagle 2 Examples
 
 Rust examples for PocketBeagle 2.
