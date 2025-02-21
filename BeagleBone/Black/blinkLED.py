@@ -12,7 +12,7 @@ import time
 import os
 
 # Look up P9.14 using show-pins.  gpio1.18 maps to 50
-pin = "50"
+pin = "51"
  
 GPIOPATH='/sys/class/gpio/'
 # Make sure pin is exported
